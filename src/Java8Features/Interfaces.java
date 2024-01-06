@@ -1,5 +1,5 @@
 package Java8Features;
 
-public class Interfaces {
+public class Interfaces  {
 
 }
